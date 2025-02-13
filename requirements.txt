@@ -1,7 +1,6 @@
-streamlit==1.29.0
-plotly-express==0.4.1
-pandas==2.2.2
-gdown==5.2.0
-#streamlit_apexjs
-altair==5.4.1
-dash==2.18.2
+streamlit
+plotly-express
+pandas
+gdown
+streamlit_apexjs
+altair
