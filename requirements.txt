@@ -1,6 +1,6 @@
 streamlit==1.29.0
 plotly-express==0.4.1
-pandas
-gdown
-streamlit_apexjs
-altair
+pandas==2.2.2
+gdown==5.2.0
+#streamlit_apexjs
+altair==5.4.1
